@@ -26,7 +26,7 @@ Clone this repository & update image name in the yaml if you have build your own
 
 >  kubectl -f minikube-example
 
-*note: docker image dipinthomas2003/node-frontend:minikube expectes backend to be accessible on http://192.168.49.2:5000   *
+*note: docker image dipinthomas2003/node-frontend:minikube expectes backend to be accessible on http://192.168.49.2:5000*
 
 # Access Web UI
 
