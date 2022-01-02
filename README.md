@@ -2,7 +2,7 @@
 
 Minikube quickly sets up a local Kubernetes cluster on macOS, Linux, and Windows. Minikube focus on helping application developers and new Kubernetes users.
 
-# Assumptions
+# Prerequisite
 
 1. Minikube is [installed](https://minikube.sigs.k8s.io/docs/start/) 
 2. kubectl is [installed](https://kubernetes.io/docs/tasks/tools/)
