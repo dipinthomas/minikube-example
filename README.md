@@ -22,9 +22,11 @@ Expected result is  master node details
 
 # Deployment 
 
-Clone this repository & update image name in the yaml if required or changed. 
+Clone this repository & update image name in the yaml if you have build your own image. 
 
 >  kubectl -f minikube-example
+
+*note: docker image dipinthomas2003/node-frontend:minikube expectes backend to be accessible on http://192.168.49.2:5000   *
 
 # Access Web UI
 
