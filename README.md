@@ -24,7 +24,7 @@ Expected result is  master node details
 
 Clone this repository & update image name in the yaml if required or changed. 
 
->  kubectl -f minikube_deployment
+>  kubectl -f minikube-example
 
 # Access Web UI
 
